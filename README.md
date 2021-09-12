@@ -1,2 +1,2 @@
 # MatlabControlSystems
-state feedback controller and full state observer
+state feedback controller from given transfer function
